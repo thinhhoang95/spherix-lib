@@ -23,4 +23,4 @@ See the TestSampleTrajectory.cc file in the test folder for an example about how
 
 # License
 
-GPLv3.
+The algorithm is patent pending, but the library is licensed under GPLv3.
