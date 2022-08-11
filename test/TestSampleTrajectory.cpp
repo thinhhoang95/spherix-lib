@@ -1,9 +1,9 @@
 #include <iostream>
 #include <Eigen/Dense>
 
-#include "../spherix-dev/ConfigReader.h";
-#include "../spherix-dev/Kalman.h";
-#include "../spherix-dev/SpherixEncoder.h";
+#include "ConfigReader.h";
+#include "Kalman.h";
+#include "SpherixEncoder.h";
 
 using namespace std;
 
